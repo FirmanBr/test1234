@@ -1,0 +1,2 @@
+json5==0.9.14
+spreadsheet==1.2.1
