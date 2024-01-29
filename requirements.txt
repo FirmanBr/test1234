@@ -1,2 +1,2 @@
-maleo=0.0.7.0
+maleo==0.0.7.0
 spreadsheet==1.2.1
